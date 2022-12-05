@@ -1,0 +1,3 @@
+Jhon , 2
+Mihai , 1
+Ana , 7
